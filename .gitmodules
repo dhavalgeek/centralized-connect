@@ -1,0 +1,3 @@
+[submodule "centralized"]
+	path = centralized
+	url = https://github.com/dhavalgeek/centralized
